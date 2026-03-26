@@ -1,0 +1,12 @@
+{
+  "name": "college-womens-flagfootball-coach-directory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal deployable site for Railway",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
